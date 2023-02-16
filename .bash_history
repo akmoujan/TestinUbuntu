@@ -80,3 +80,80 @@ sudo apt  install aircrack-ng
 sudo apt install json
 sudo apt install docker json
 vim
+sudo apt-get install docker.io
+sudo docker --version
+sudo docker  start
+sudo apt-get install git
+sudo git --version
+git config --global init.defaultBranch main
+git config --global --list
+git config --global user.name "akmoujan"
+git config --global user.email "akmoujan"
+git init
+git clone https://github.com/akmoujan/Repo.git
+sudo git clone https://github.com/akmoujan/Repo.git
+git commit -m "MY first commit"
+git add .
+git commit -m "all"
+git commit -am "Hello"
+git remote add origin gh repo clone akmoujan/TestinUbuntu
+git remote add origin https://github.com/akmoujan/TestinUbun
+git remote -v
+git push -u origin https://github.com/akmoujan/TestinUbun
+git push https://github.com/akmoujan/TestinUbun
+git push -u origin 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@https://github.com/akmoujan/TestinUbun
+git log
+git clone git@github.com:akmoujan/TestinUbuntu.git
+clear
+git remote -v
+git remote set-url origin https://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@github.com/akmoujan/TestinUbuntu.git
+git push origin testing
+gisudo git push origin file.txt
+git config --global --list
+sudo git push origin test
+cd C:\Users\qSEAp\getting-started\.git\branches
+ls -la
+cd C:\Users\qSEAp\getting-started\.github\workflows
+cd .git
+git clone https://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@github.com/akmoujan/TestinUbuntu.git
+cd
+sudo etc/home/qSeap
+sudo etc/home/git
+sudo nano etc/resolve.config
+git log
+cd TestinUbuntu.git
+cd git
+cd .git
+mkdir TestinUbuntu
+cd TestinUbuntu
+git clone https://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@github.com/akmoujan/TestinUbuntu.git
+cd
+cd gitconfig
+git log
+git .
+git clone https://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@github.com/akmoujan/TestinUbuntu.git
+git clone https://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@github.com/
+git clone https://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@github.com/akmoujan/TestinUbuntu.git/
+git log
+git branch
+git branch new branch
+git branch new_branch
+git branch -a
+git branch TestinUbuntu
+git branch -a
+git log
+git branch new_branch
+git branch css
+git branch -a
+git log
+git branch -online
+git log -oneline
+ls -la
+echo "Add third line">>file.txt
+git push origin -all
+git push origin --all
+sudo nano etc/hostname
+git push origin --all
+ostname
+hostname
+sudo su
